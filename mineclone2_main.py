@@ -14,7 +14,7 @@ for y in range(y_size):
             cube = Entity(model="cube", scale=(1, 1, 1), position=(x, y, z), texture='grass', collider='box')
 player = FirstPersonController(
     position=(5, 4, 5),
-    speed=8,
+    speed=6,
     jump_height=2,
     mouse_sensitivity=Vec2(40, 40),)
 def input(key):
