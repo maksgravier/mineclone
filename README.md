@@ -8,6 +8,6 @@ Has some problems with collision.
 
 #mineclone 3 you can fly and there are planks
 -----------------------------------------------------------------------------------------------------
-#this is mineclone 4 it has some new variety of blocks
 <img width="1431" height="521" alt="image" src="https://github.com/user-attachments/assets/2aa893ce-8dce-4af4-8874-f9e0324eb6d1" />
+#this is mineclone 4 it has some new variety of blocks
 -----------------------------------------------------------------------------------------------------
