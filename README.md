@@ -3,6 +3,9 @@
 Has some problems with collision.
 <img width="2057" height="1186" alt="image" src="https://github.com/user-attachments/assets/b578fd91-f696-4f9e-b677-80d11206b16c" />
 This is mineclone 2 it is faster less laggy does not have any problems with collision and has better textures.
-
+-----------------------------------------------------------------------------------------------------
 
 #mineclone 3 you can fly and there are planks
+-----------------------------------------------------------------------------------------------------
+<img width="1431" height="521" alt="image" src="https://github.com/user-attachments/assets/2aa893ce-8dce-4af4-8874-f9e0324eb6d1" />
+this is mineclone 4 it has some new variety of blocks
